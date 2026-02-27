@@ -15,6 +15,7 @@ Rango 3: IRS = 31,216 + [(Sueldo - 624,329) × 0.20]
 Rango 4: IRS = 79,776 + [(Sueldo - 867,123) × 0.25]
 
 funcionamiento del programa.
+<img width="1845" height="969" alt="image" src="https://github.com/user-attachments/assets/650847ce-dbc6-4abd-8291-268656844d6a" />
 
 primer caso.
 
